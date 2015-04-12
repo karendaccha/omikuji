@@ -14,6 +14,14 @@
 		9C7C1AF01A90841B008BF3B9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1AEF1A90841B008BF3B9 /* Images.xcassets */; };
 		9C7C1AF31A90841B008BF3B9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1AF11A90841B008BF3B9 /* LaunchScreen.xib */; };
 		9C7C1AFF1A90841B008BF3B9 /* omikujiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C7C1AFE1A90841B008BF3B9 /* omikujiTests.m */; };
+		9C7C1B091A9085F4008BF3B9 /* IMG_0952.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B081A9085F4008BF3B9 /* IMG_0952.JPG */; };
+		9C7C1B0B1A9086A4008BF3B9 /* IMG_2579.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B0A1A9086A4008BF3B9 /* IMG_2579.JPG */; };
+		9C7C1B0E1A9087F7008BF3B9 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C7C1B0D1A9087F7008BF3B9 /* SecondViewController.m */; };
+		9C7C1B101AA9A5FC008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B0F1AA9A5FC008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png */; };
+		9C7C1B121AAB0BFD008BF3B9 /* IMG_2885.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B111AAB0BFD008BF3B9 /* IMG_2885.PNG */; };
+		9C7C1B141AAB0C17008BF3B9 /* IMG_2887.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B131AAB0C17008BF3B9 /* IMG_2887.PNG */; };
+		9C7C1B161AAB0C2C008BF3B9 /* IMG_2886.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B151AAB0C2C008BF3B9 /* IMG_2886.PNG */; };
+		9C7C1B181AABDB6F008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C7C1B171AABDB6F008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +48,15 @@
 		9C7C1AF81A90841B008BF3B9 /* omikujiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = omikujiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C7C1AFD1A90841B008BF3B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C7C1AFE1A90841B008BF3B9 /* omikujiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = omikujiTests.m; sourceTree = "<group>"; };
+		9C7C1B081A9085F4008BF3B9 /* IMG_0952.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0952.JPG; sourceTree = "<group>"; };
+		9C7C1B0A1A9086A4008BF3B9 /* IMG_2579.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2579.JPG; path = "../../../Pictures/iPhoto Library.photolibrary/Masters/2015/02/15/20150215-164722/IMG_2579.JPG"; sourceTree = "<group>"; };
+		9C7C1B0C1A9087F7008BF3B9 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		9C7C1B0D1A9087F7008BF3B9 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		9C7C1B0F1AA9A5FC008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2015-03-06 18.06.01.png"; path = "../../../Desktop/スクリーンショット 2015-03-06 18.06.01.png"; sourceTree = "<group>"; };
+		9C7C1B111AAB0BFD008BF3B9 /* IMG_2885.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_2885.PNG; sourceTree = "<group>"; };
+		9C7C1B131AAB0C17008BF3B9 /* IMG_2887.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_2887.PNG; sourceTree = "<group>"; };
+		9C7C1B151AAB0C2C008BF3B9 /* IMG_2886.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_2886.PNG; sourceTree = "<group>"; };
+		9C7C1B171AABDB6F008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2015-03-06 18.06.01.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +102,16 @@
 				9C7C1AE71A90841B008BF3B9 /* AppDelegate.m */,
 				9C7C1AE91A90841B008BF3B9 /* ViewController.h */,
 				9C7C1AEA1A90841B008BF3B9 /* ViewController.m */,
+				9C7C1B151AAB0C2C008BF3B9 /* IMG_2886.PNG */,
+				9C7C1B131AAB0C17008BF3B9 /* IMG_2887.PNG */,
+				9C7C1B111AAB0BFD008BF3B9 /* IMG_2885.PNG */,
+				9C7C1B0F1AA9A5FC008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png */,
+				9C7C1B171AABDB6F008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png */,
 				9C7C1AEC1A90841B008BF3B9 /* Main.storyboard */,
+				9C7C1B0C1A9087F7008BF3B9 /* SecondViewController.h */,
+				9C7C1B0D1A9087F7008BF3B9 /* SecondViewController.m */,
+				9C7C1B0A1A9086A4008BF3B9 /* IMG_2579.JPG */,
+				9C7C1B081A9085F4008BF3B9 /* IMG_0952.JPG */,
 				9C7C1AEF1A90841B008BF3B9 /* Images.xcassets */,
 				9C7C1AF11A90841B008BF3B9 /* LaunchScreen.xib */,
 				9C7C1AE21A90841B008BF3B9 /* Supporting Files */,
@@ -200,8 +226,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C7C1AEE1A90841B008BF3B9 /* Main.storyboard in Resources */,
+				9C7C1B181AABDB6F008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png in Resources */,
 				9C7C1AF31A90841B008BF3B9 /* LaunchScreen.xib in Resources */,
+				9C7C1B0B1A9086A4008BF3B9 /* IMG_2579.JPG in Resources */,
+				9C7C1B161AAB0C2C008BF3B9 /* IMG_2886.PNG in Resources */,
+				9C7C1B121AAB0BFD008BF3B9 /* IMG_2885.PNG in Resources */,
+				9C7C1B141AAB0C17008BF3B9 /* IMG_2887.PNG in Resources */,
+				9C7C1B101AA9A5FC008BF3B9 /* スクリーンショット 2015-03-06 18.06.01.png in Resources */,
 				9C7C1AF01A90841B008BF3B9 /* Images.xcassets in Resources */,
+				9C7C1B091A9085F4008BF3B9 /* IMG_0952.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +252,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C7C1B0E1A9087F7008BF3B9 /* SecondViewController.m in Sources */,
 				9C7C1AEB1A90841B008BF3B9 /* ViewController.m in Sources */,
 				9C7C1AE81A90841B008BF3B9 /* AppDelegate.m in Sources */,
 				9C7C1AE51A90841B008BF3B9 /* main.m in Sources */,
@@ -412,6 +446,7 @@
 				9C7C1B041A90841B008BF3B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C7C1B051A90841B008BF3B9 /* Build configuration list for PBXNativeTarget "omikujiTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +455,7 @@
 				9C7C1B071A90841B008BF3B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
